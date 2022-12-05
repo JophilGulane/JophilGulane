@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaysGITH
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Data Structure & Algorithm
-- 💞️ I’m looking to collaborate on Building Websites
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Data Structure & Algorithm.
+- 💞️ I’m looking to collaborate on Building Websites.
 - 📫 How to reach me ajgulane1@gmail.com
 
 <!---
