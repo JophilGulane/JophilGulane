@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<a href=#><img src="contributions.svg"></a> 
+<a href=#><img src="github-user-contributions.svg"></a> 
  </p>
 
 <!-- # 💫 About Me:
