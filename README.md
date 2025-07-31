@@ -3,7 +3,6 @@
 
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg --> 
-  <h3 align="center">Readme</h3>
     <img src="https://readme-typing-svg.demolab.com/?lines=JOPHIL%20GULANE%20;SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;COMPUTER%20SCIENTIST&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
