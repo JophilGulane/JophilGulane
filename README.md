@@ -2,8 +2,7 @@
 </p>
 
 <p align="center">
-   <a>
-<img src="https://readme-typing-svg.demolab.com/?lines=JOPHIL%20GULANE%20;SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;COMPUTER%20SCIENTIST&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=01FF00&background=FFA6FC00&random=true&width=435&lines=Jophil+Gulane;Software+Engineer;Ethical+Hacker;Full+Stack+Developer;Computer+Scientist;Programmer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
